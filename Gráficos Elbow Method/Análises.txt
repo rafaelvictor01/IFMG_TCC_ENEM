@@ -1,0 +1,7 @@
+Nº Ideal de clusters para 2019: 4
+Nº Ideal de clusters para 2020: 4
+Nº Ideal de clusters para 2021: 5
+Nº Ideal de clusters para 2022: 5
+Nº Ideal de clusters para 2023: 7
+
+Média: (7+5+5+4+4)/5 = 5
