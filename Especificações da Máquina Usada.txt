@@ -1,5 +1,0 @@
-Processador	AMD Ryzen 5 2600 Six-Core Processor               3.40 GHz
-RAM instalada	32,0 GB (dual-channel)
-Tipo de sistema	Sistema operacional de 64 bits, processador baseado em x64
-Edição	Windows 11 Pro
-Versão	24H2
